@@ -9,7 +9,7 @@
 
 A versatile tool for reading, writing, managing, and emulating NFC cards on your iPhone.
 
-[Download from GitHub](https://github.com/OwnGoalStudio/TrollNFC/releases)
+[Download from GitHub](https://github.com/owngoal-dev/TrollNFC/releases)
 
 ![Preview Banner](./Resources/banner.png)
 

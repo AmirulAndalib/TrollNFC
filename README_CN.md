@@ -9,7 +9,7 @@
 
 一款功能强大的 NFC 工具，让您的 iPhone 秒变读卡器、写卡器和模拟器。
 
-[从 GitHub 下载](https://github.com/OwnGoalStudio/TrollNFC/releases)
+[从 GitHub 下载](https://github.com/owngoal-dev/TrollNFC/releases)
 
 ![Preview Banner](./Resources/banner.png)
 
